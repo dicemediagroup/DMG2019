@@ -1,0 +1,77 @@
+<manifest alg="2" build="329" opt="false" iceEnabled="true">
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="318221349" ref="tablet>index"/>
+      <file name="contact.css" crc="318221349" ref="tablet>contact"/>
+      <file name="events.css" crc="318221349" ref="tablet>events"/>
+      <file name="campaigns.css" crc="318221349" ref="tablet>campaigns"/>
+      <file name="news.css" crc="318221349" ref="tablet>news"/>
+    </folder>
+    <file name="index.html" crc="3798504768" mt="1389659258301" redirect="false"/>
+    <file name="contact.html" crc="3807669647" mt="1389659258386" redirect="false"/>
+    <file name="events.html" crc="292164064" mt="1389659258468" redirect="false"/>
+    <file name="news.html" crc="4017452862" mt="1389659258552" redirect="false"/>
+    <file name="campaigns.html" crc="241557074" mt="1389659258635" redirect="false"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="3779276276"/>
+    <file name="master_a-master.css" crc="4196324022" ref="index"/>
+    <file name="master_b-master.css" crc="3963740337" ref="contact"/>
+    <file name="index.css" crc="3762725266" ref="index"/>
+    <file name="events.css" crc="306614575" ref="events"/>
+    <file name="news.css" crc="4176690741" ref="news"/>
+    <file name="campaigns.css" crc="4176690741" ref="campaigns"/>
+    <file name="contact.css" crc="502405756" ref="contact"/>
+    <file name="master_a-master-copy.css" crc="4058961251" ref="who-we-are:events:news:campaigns:ooh--signs:video-production:web-developement:media-relations:media-buys:untitled-13:tv:radio:web:social-media:services:media-services"/>
+    <file name="who-we-are.css" crc="10563862" ref="who-we-are"/>
+    <file name="ooh--signs.css" crc="4176690741" ref="ooh--signs"/>
+    <file name="video-production.css" crc="4176690741" ref="video-production"/>
+    <file name="web-developement.css" crc="4176690741" ref="web-developement"/>
+    <file name="media-relations.css" crc="4176690741" ref="media-relations"/>
+    <file name="media-buys.css" crc="4176690741" ref="media-buys"/>
+    <file name="untitled-13.css" crc="4176690741" ref="untitled-13"/>
+    <file name="tv.css" crc="4176690741" ref="tv"/>
+    <file name="radio.css" crc="4176690741" ref="radio"/>
+    <file name="web.css" crc="4176690741" ref="web"/>
+    <file name="social-media.css" crc="4176690741" ref="social-media"/>
+    <file name="services.css" crc="4176690741" ref="services"/>
+    <file name="media-services.css" crc="4176690741" ref="media-services"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="campaigns:news:events:contact:index:tablet>index:tablet>contact:tablet>events:tablet>news:tablet>campaigns:who-we-are:services:media-services:web-developement:video-production:media-relations:media-buys:untitled-13:tv:radio:web:social-media:ooh--signs"/>
+    <file name="museutils.js" crc="3865766194" ref="campaigns:news:events:contact:index:tablet>index:tablet>contact:tablet>events:tablet>news:tablet>campaigns:who-we-are:services:media-services:web-developement:video-production:media-relations:media-buys:untitled-13:tv:radio:web:social-media:ooh--signs"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="campaigns:news:events:contact:index:who-we-are:services:media-services:web-developement:video-production:media-relations:media-buys:untitled-13:tv:radio:web:social-media:ooh--signs"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="campaigns:news:events:contact:index:tablet>index:tablet>contact:tablet>events:tablet>news:tablet>campaigns:who-we-are:services:media-services:web-developement:video-production:media-relations:media-buys:untitled-13:tv:radio:web:social-media:ooh--signs"/>
+    <file name="webpro.js" crc="3903299128" ref="contact"/>
+    <file name="form_check.php" crc="3931498385" ref="contact"/>
+    <file name="form_throttle.php" crc="4211444717" ref="contact"/>
+    <file name="form-u854.php" crc="3907374673" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="dicemediagroupmoretogetherpage.jpg" crc="4030634905" ref="index"/>
+    <file name="social-network-graphics.jpg" crc="472797497" ref="campaigns:events:index:news:who-we-are:services:media-services:web-developement:video-production:media-relations:media-buys:untitled-13:tv:radio:web:social-media:ooh--signs"/>
+    <file name="formalbanner1.jpg" crc="4091938341" ref="contact"/>
+    <file name="u871-17.png" crc="236349253" ref="contact"/>
+    <file name="u871-17-r.png" crc="401733888" ref="contact"/>
+    <file name="u871-17-m.png" crc="345933530" ref="contact"/>
+    <file name="u871-17-fs.png" crc="3869785650" ref="contact"/>
+  </folder>
+  <file name="campaigns.html" crc="305151681" mt="1389736508298" redirect="true"/>
+  <file name="news.html" crc="526548826" mt="1389736508300" redirect="true"/>
+  <file name="events.html" crc="134033660" mt="1394654949263" redirect="true"/>
+  <file name="contact.html" crc="4078686144" mt="1389736508317" redirect="true"/>
+  <file name="index.html" crc="41086897" mt="1390428446805" redirect="true"/>
+  <file name="who-we-are.html" crc="4166391551" mt="1389736508304" redirect="true"/>
+  <file name="services.html" crc="262161621" mt="1389736508342" redirect="true"/>
+  <file name="media-services.html" crc="228837692" mt="1389736519342" redirect="true"/>
+  <file name="web-developement.html" crc="3771900215" mt="1389736540789" redirect="true"/>
+  <file name="video-production.html" crc="36058208" mt="1389736567502" redirect="true"/>
+  <file name="media-relations.html" crc="3764523399" mt="1389736586040" redirect="true"/>
+  <file name="media-buys.html" crc="218194114" mt="1389736599841" redirect="true"/>
+  <file name="untitled-13.html" crc="226817061" mt="1389736599919" redirect="true"/>
+  <file name="tv.html" crc="113627008" mt="1389736625057" redirect="true"/>
+  <file name="radio.html" crc="18512110" mt="1389736683827" redirect="true"/>
+  <file name="web.html" crc="91702145" mt="1389736696791" redirect="true"/>
+  <file name="social-media.html" crc="4123132388" mt="1389736707434" redirect="true"/>
+  <file name="ooh--signs.html" crc="204129197" mt="1389736724469" redirect="true"/>
+</manifest>
